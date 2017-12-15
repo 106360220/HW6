@@ -1,0 +1,4 @@
+﻿  main.c
+e:\106360220_楊沛紋\10-9\source\main.c(19): warning C4244: '函式': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+  10-9.vcxproj -> E:\106360220_楊沛紋\10-9\10-9\Debug\10-9.exe
+  10-9.vcxproj -> E:\106360220_楊沛紋\10-9\10-9\Debug\10-9.pdb (Partial PDB)
